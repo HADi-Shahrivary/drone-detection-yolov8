@@ -6,4 +6,4 @@ Example result of the YOLOv8 detection:
 
 The trained model was also tested on video:
 
-[▶️ Watch Detection Video](./[drone-detection-demo.mp4]
+[▶️ Watch YOLOv8 Detection Demo](https://github.com/HADi-Shahrivary/drone-detection-yolov8/raw/refs/heads/main/drone-detection-demo.mp4)
